@@ -7,8 +7,7 @@
     <img src="https://img.shields.io/badge/Discord-blueviolet?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
   </a>
   <a href="https://nohello.net">
-    <img src="https://img.shields.io/badge/No%20hello-8A2BE2?style=flat-square
-"/>
+    <img src="https://img.shields.io/badge/No%20hello-8A2BE2?style=flat-square"/>
   </a>
 </div>
 
