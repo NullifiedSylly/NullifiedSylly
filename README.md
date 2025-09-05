@@ -3,11 +3,12 @@
 <div id="header" align="center">
   <img src="https://cdn.discordapp.com/guilds/943546133140099073/users/875659010207014972/avatars/a_b02c10379e7fbf343d76272d38512b8c.png" width="100"/>
 <div id="badges">
-  <a href="https://discord.gg/GyYuYjzf7u">
+  <a href="https://example.com/discord_not_made_yet">
     <img src="https://img.shields.io/badge/Discord-blueviolet?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCs8Ae8B5EqO_N_37CD8QQNQ/videos">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://nohello.net">
+    <img src="https://img.shields.io/badge/No%20hello-8A2BE2?style=flat-square
+"/>
   </a>
 </div>
 
