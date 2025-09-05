@@ -25,8 +25,8 @@
 | Sexuality | Pansexual |
 | DoB | 30/05/2005 |
 | Discord | NulledSylly |
-| Likes | Sleep, food, coffee, friends, walks at night and conversations |
-| Dislikes | Bright lights, loud noises, Toxicity, being ghosted, oversleeping |
+| Likes | Sleep, food, coffee, walks at night and conversations. |
+| Dislikes | Bright lights, loud noises, toxicity, and oversleeping |
 
 If you have any more questions then just [ask me questions](https://tellonym.me/desi_0404)
 </p>
